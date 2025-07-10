@@ -123,16 +123,16 @@ The application comes with pre-populated sample data to help you get started:
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Transaction Management
-![Transactions](screenshots/transactions.png)
+![Transactions](Screenshots/transactions.png)
 
 ### Budget Tracking
-![Budget](screenshots/budget.png)
+![Budget](Screenshots/budget.png)
 
 ### Reports
-![Reports](screenshots/reports.png)
+![Reports](Screenshots/reports.png)
 
 ## 🔧 Key Functionalities
 
