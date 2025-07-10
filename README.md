@@ -65,7 +65,7 @@ A comprehensive Java-based desktop application for managing personal finances wi
 #### Option 1: Clone Repository
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/personal-finance-manager.git
+git clone https://github.com/Hari06om/Personal-Finance-Manager.git
 
 # Navigate to project directory
 cd personal-finance-manager
