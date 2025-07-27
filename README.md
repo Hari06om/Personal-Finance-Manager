@@ -120,6 +120,9 @@ The application comes with pre-populated sample data to help you get started:
 - Transportation: ₹2,000
 - Entertainment: ₹1,000
 
+
+
+
 ## 📸 Screenshots
 
 ### Dashboard
@@ -143,6 +146,8 @@ The application comes with pre-populated sample data to help you get started:
 - **Monthly Tracking**: Current month financial performance
 - **Category Analysis**: Spending breakdown by category
 - **Budget Variance**: Comparison of budgeted vs actual spending
+
+
 
 ### User Experience Features
 - **One-Click Actions**: Quick access to common operations
