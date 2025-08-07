@@ -13,6 +13,11 @@ A comprehensive Java-based desktop application for managing personal finances wi
   - Total Income
   - Total Expenses  
   - Current Balance
+ 
+
+
+
+
   - Transaction Count
   - Budget Status
   - This Month's Balance
